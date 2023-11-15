@@ -8,10 +8,10 @@ Projeto com landing page simples, porem aplicando uma tabela estilizada utilizan
 
 💡 Tecnologia usada: HTML e CSS <br>
 📑 Layout desenvolvido pela DevMedia <br>
-📂 Respositório: https://lnkd.in/djd5AEf9 <br>
-🌐 Site: https://lnkd.in/dATtWYEX <br>
+📂 [Respositório](https://github.com/diego105xz/game-store) <br>
+🌐 [Site](https://diego105xz.github.io/game-store/) <br>
 
-Artigo sobre Pseudo classes da devmedia: https://lnkd.in/d_H7RPGm
+Artigo sobre Pseudo classes da devmedia: [link](https://www.devmedia.com.br/exemplo/pseudo-classes-do-css/59?parte=1)
 
 ## Layout Web
 ![WEB](https://github.com/diego105xz/RepositorioImg/blob/main/game-stroreWeb.jpg)
